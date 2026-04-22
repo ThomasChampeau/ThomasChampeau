@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Thomas Champeau
 
-<!--
-**ThomasChampeau/ThomasChampeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst Junior | Python • SQL • Power BI
 
-Here are some ideas to get you started:
+Je suis en reconversion vers la data analyse, avec une forte expérience en gestion de projet et communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Compétences
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+SQL (MySQL)
+Power BI
+Machine Learning (Scikit-learn)
+
+📊 Projets principaux
+🔹 Analyse de données commerciales
+Nettoyage et transformation de données
+Analyse exploratoire (EDA)
+Dashboard Power BI
+👉 Voir le projet : [lien]
+🔹 Système de recommandation de films
+Dataset IMDB (+1M lignes)
+Modèle de recommandation
+API REST
+👉 Voir le projet : [lien]
+📫 Me contacter
+LinkedIn : https://linkedin.com/in/tchampeaudata
