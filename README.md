@@ -15,11 +15,11 @@ Machine Learning (Scikit-learn)
 Nettoyage et transformation de données
 Analyse exploratoire (EDA)
 Dashboard Power BI
-👉 Voir le projet : [lien]
+👉 Voir le projet : [lien en construction]
 🔹 Système de recommandation de films
 Dataset IMDB (+1M lignes)
 Modèle de recommandation
 API REST
-👉 Voir le projet : [lien]
+👉 Voir le projet : [lien en constrution]
 📫 Me contacter
 LinkedIn : https://linkedin.com/in/tchampeaudata
